@@ -21,3 +21,7 @@ target/
 /src/examples/
 /src/puzzles/
 /.idea/
+/.vscode/
+/.github/
+/.cargo/
+/.assets/
